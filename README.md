@@ -77,8 +77,8 @@ npm run public
 
 ## 更新日志
 
-2017.6.18
-  调整结构，采用 Gulp 打包，public 用 `simple-git`, 不用shell脚本了
+2018.10.23
+  调整结构，采用 Gulp 打包
 
 ## LICENSE
 

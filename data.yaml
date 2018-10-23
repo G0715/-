@@ -41,7 +41,7 @@ experience: # 项目经验
     project:
       -
         name: MagicCat音乐
-        date: 2017.10
+        date: 2017.11
         img:
         website:
 #        source_code: https://github.com/G0715
@@ -63,7 +63,7 @@ experience: # 项目经验
         des: !!md |
           利用bootstrap框架完成的响应式页面，主要使用了栅格系统、媒体查询等
   -
-    section: 实习经历
+    section: 工作经历
     exper:
       - 
         company: TCL空调器(中山)有限公司
@@ -86,7 +86,7 @@ experience: # 项目经验
       -
         company: 项目经历
         time: 2018.04 - 至今
-        desc: TCL云商管理平台为TCL家电集团斥巨资打造的一站式移动购物平台，专注于帮助传统零售商拥抱互联网，掘金新零售.平台整合优质上游供应链;100%正品保障;为传统线下零售商提供免费移动商城,采销无忧;致力于为用户提供极致移动购体验,极速送装。我主要负责前端部分的开发, 最大程度的还原设计稿，完成页面交互。
+        desc: 在整个项目中我主要负责前端部分的开发, 最大程度的还原设计稿，完成页面交互。TCL云商管理平台为TCL家电集团斥巨资打造的一站式移动购物平台，专注于帮助传统零售商拥抱互联网，掘金新零售.平台整合优质上游供应链;100%正品保障;为传统线下零售商提供免费移动商城,采销无忧;致力于为用户提供极致移动购体验,极速送装。
         project:
           -
             name: saleOrder(采购、销售订单页面)
@@ -103,23 +103,15 @@ experience: # 项目经验
             website: http://shopservice.htreecloud.com/newadmin/login.html
             source_code:
             des: !!md |
-              接手这个项目时已经对团队的框架比较熟悉了，这个项目也包括了很多页面组件，算是强化练习吧。PM会审查代码规范性，我再相应的做出修改，整个过程下来收获很多，是一次蜕变。
+              接手这个项目时已经对团队的框架比较熟悉了，这个项目也包括了很多页面组件，算是强化练习吧。整个过程下来收获很多，是一次蜕变。
           -
-            name: platform management(平台管理、平台设置页面)
-            date: '2018.08'
-            img: https://xiao555.netlify.com/taldumande.jpg
-            website: http://shopservice.htreecloud.com/newadmin/login.html
-            source_code:
-            des: !!md |
-              这是项目前端已经能完全独立完成了，设计也有很多有趣的地方，像header，footer部分两种颜色，为了不影响其它布局也比较方便用伪元素解决。没有很难的地方，细节很多，也比较考验布局能力。
-          -
-            name: StoreComparisonTable(店铺对照页面)
+            name: StoreComparisonTable(店铺对照页面、平台管理、平台设置页面)
             date: '2018.09'
             img: https://xiao555.netlify.com/workforceprofessionals.jpg
             website: http://shopservice.htreecloud.com/newadmin/login.html
             source_code:
             des: !!md |
-               数据都是通过API来获取的，有大量的表格，需要从API获取大量的数据，处理数据，渲染到前端页面上，一开始我写了一堆if-else，数据跟表单一一对应，后来发现这样做代码量很大，而且不够灵活。后来重新安排数据结构，用label作为key值，前端表单label作为value值，通过模板引擎跟后端对应起来，这样既大大减少了代码量，也提高了灵活性。
+              数据都是通过API来获取的，有大量的表格，需要从API获取大量的数据，处理数据，渲染到前端页面上。通过模板引擎跟后端对应起来，大大减少了代码量，也提高了灵活性。
 skill: # 技能清单
       -
         des: !!md |
